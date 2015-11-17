@@ -1,0 +1,23 @@
+name: NubeeTest
+favicon: null
+layout_spectrum: 0.19437199272215366
+typography_spectrum: 0.7267282090615481
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6795954089611769
+  lightness: 0.2623214537743479
+  saturation: 0.9215199297759682
+  rhythmicContrast: 0.9138647199142724
+purpose: []
