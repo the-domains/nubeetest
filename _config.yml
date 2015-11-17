@@ -1,6 +1,6 @@
 name: NubeeTest
 favicon: null
-layout_spectrum: 0.19437199272215366
+layout_spectrum: 0.59168
 typography_spectrum: 0.7267282090615481
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#550000'
     - '#ff0000'
   brandStrength: 0.6875
-  lightness: 0.2623214537743479
-  saturation: 0.9215199297759682
-  rhythmicContrast: 0.9138647199142724
+  lightness: 1
+  saturation: 0.875
+  rhythmicContrast: 1
 purpose: []
